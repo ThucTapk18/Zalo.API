@@ -1,0 +1,13 @@
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\bin\Debug\net5.0\Buissness.API.dll
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\WebZalo.API.CT.csprojAssemblyReference.cache
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\WebZalo.API.CT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\WebZalo.API.CT.AssemblyInfoInputs.cache
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\WebZalo.API.CT.AssemblyInfo.cs
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\staticwebassets\WebZalo.API.CT.StaticWebAssets.Manifest.cache
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\staticwebassets\WebZalo.API.CT.StaticWebAssets.xml
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\scopedcss\bundle\WebZalo.API.CT.styles.css
+D:\ThucTap\WebZalo.API.CT\WebZalo.API.CT\WebZalo.API.CT\obj\Debug\net5.0\WebZalo.API.CT.RazorTargetAssemblyInfo.cache
